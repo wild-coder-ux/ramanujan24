@@ -177,10 +177,12 @@ src/
 If you use R24 in research, please cite this repository until a paper is available.
 
 ```
-@software{ramanujan24,
-  title  = {Ramanujan-24: Multi-stage retrieval with Fibonacci-weighted hashing},
+@misc{ramanujan24,
+  title  = {Ramanujan-24: A Multi-Stage Retrieval System with Fibonacci-Weighted Hashing},
+  author = {M, Sadagopan},
   year   = {2026},
-  url    = {https://github.com/wild-coder-ux/ramanujan24}
+  doi    = {10.5281/zenodo.20600066},
+  url    = {https://zenodo.org/records/20600066}
 }
 ```
 
