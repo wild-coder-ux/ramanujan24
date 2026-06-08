@@ -1,0 +1,9 @@
+*.npy
+*.so
+*.pyc
+__pycache__/
+venv/
+*.safetensors
+*.mp4
+*.png
+*.jpg
