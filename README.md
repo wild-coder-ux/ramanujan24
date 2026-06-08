@@ -180,7 +180,7 @@ If you use R24 in research, please cite this repository until a paper is availab
 @software{ramanujan24,
   title  = {Ramanujan-24: Multi-stage retrieval with Fibonacci-weighted hashing},
   year   = {2026},
-  url    = {https://github.com/YOUR_USERNAME/ramanujan24}
+  url    = {https://github.com/wild-coder-ux/ramanujan24}
 }
 ```
 
